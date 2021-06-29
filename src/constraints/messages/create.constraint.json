@@ -1,0 +1,20 @@
+{
+    "boardId": {
+        "presence": {
+            "allowEmpty": false
+        },
+        "type": "string"
+    },
+    "message": {
+        "presence": {
+            "allowEmpty": false
+        },
+        "type": "string"
+    },
+    "createdBy": {
+        "presence": {
+            "allowEmpty": false
+        },
+        "type": "string"
+    }
+}

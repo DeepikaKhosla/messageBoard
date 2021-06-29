@@ -1,0 +1,24 @@
+{
+    "userFName": {
+        "presence": {
+            "allowEmpty": false
+        },
+        "type": "string"
+    },
+    "userMName": {
+        "type": "string"
+    },
+    "userLName": {
+        "presence": {
+            "allowEmpty": false
+        },
+        "type": "string"
+    },
+    "emailAddress": {
+        "presence": {
+            "allowEmpty": false
+        },
+        "type": "string",
+        "email": true
+    }
+}

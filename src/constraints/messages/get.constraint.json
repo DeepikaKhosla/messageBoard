@@ -1,0 +1,11 @@
+{
+    "boardId": {
+        "type": "string"
+    },
+    "startDate": {
+        "type": "number"
+    },
+    "endDate": {
+        "type": "number"
+    }
+}
